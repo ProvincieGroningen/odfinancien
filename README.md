@@ -1,11 +1,9 @@
 # Financiële gegevens van de provincie Groningen
 Deze repository bevat financiële gegevens van de provincie Groningen die als open data beschikbaar worden gesteld.
 
-In deze repository vindt u begrotingen en realisaties van de provincie Groningen.
+In deze repository vindt u de begroting en realisatie (financiële verantwoording) van de provincie Groningen zoals die periodiek wordt aangeleverd aan het CBS in het Iv3-formaat. De Iv3-bestanden vanaf 2009 zijn te downloaden. Iv3 staat voor ‘Informatie voor Derden’. De gegevens bevinden zich in het publieke domein (Public Domain Mark). Op de website van het CBS is uitgebreide informatie over Iv3-bestanden te vinden.
 
-Van de jaren x -z zijn begrotingen en realisaties conform het IV3-formaat beschikbaar.
-
-Vanaf 2014 stellen wij geven wij meer detailinformatie vrij dan IV3 voorschrijft.
+Vanaf 2014 stellen wij geven wij naast de Iv3 bestanden ook meer detailinformatie vrij. Leest u de toelichting onderaan deze pagina voor meer informatie.
 
 De bestanden zijn op dit moment alleen te downloaden in het MS Excel 2010 XLSX-formaat. Wilt u de bestanden in een ander formaat ontvangen, neemt u dan contact op via opendata@provinciegroningen.nl.
 
