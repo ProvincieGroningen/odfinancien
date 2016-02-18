@@ -1,0 +1,11 @@
+29-01-2015
+Robert Nat
+
+In deze map staan de IV3 bestanden. 
+
+Vanaf www.data.groningen.nl wordt als opendata portaal naar deze bestanden verwezen. 
+Begroting en realisatie provincie Groningen (Iv3) 
+
+Deze dataset bevat de begroting en realisatie (financiële verantwoording) van de provincie Groningen zoals die periodiek wordt aangeleverd aan het CBS in het Iv3-formaat. De Iv3-bestanden vanaf 2009 zijn te downloaden. Iv3 staat voor ‘Informatie voor Derden’. IV3-bestanden zijn MS Excel-bestanden. De gegevens bevinden zich in het publieke domein (Public Domain Mark). Op de website van het CBS is uitgebreide informatie over Iv3-bestanden te vinden.
+
+Elk kwartaal levert de afdeling F&C nieuwe bestanden die in het betreffende zip bestand geplaast moeten worden. 
